@@ -1,0 +1,11 @@
+C:\Repos\Aula1\MeuPrimeiroTerminal\bin\Debug\netcoreapp2.1\MeuPrimeiroTerminal.deps.json
+C:\Repos\Aula1\MeuPrimeiroTerminal\bin\Debug\netcoreapp2.1\MeuPrimeiroTerminal.runtimeconfig.json
+C:\Repos\Aula1\MeuPrimeiroTerminal\bin\Debug\netcoreapp2.1\MeuPrimeiroTerminal.runtimeconfig.dev.json
+C:\Repos\Aula1\MeuPrimeiroTerminal\bin\Debug\netcoreapp2.1\MeuPrimeiroTerminal.dll
+C:\Repos\Aula1\MeuPrimeiroTerminal\bin\Debug\netcoreapp2.1\MeuPrimeiroTerminal.pdb
+C:\Repos\Aula1\MeuPrimeiroTerminal\obj\Debug\netcoreapp2.1\MeuPrimeiroTerminal.csprojAssemblyReference.cache
+C:\Repos\Aula1\MeuPrimeiroTerminal\obj\Debug\netcoreapp2.1\MeuPrimeiroTerminal.csproj.CoreCompileInputs.cache
+C:\Repos\Aula1\MeuPrimeiroTerminal\obj\Debug\netcoreapp2.1\MeuPrimeiroTerminal.AssemblyInfoInputs.cache
+C:\Repos\Aula1\MeuPrimeiroTerminal\obj\Debug\netcoreapp2.1\MeuPrimeiroTerminal.AssemblyInfo.cs
+C:\Repos\Aula1\MeuPrimeiroTerminal\obj\Debug\netcoreapp2.1\MeuPrimeiroTerminal.dll
+C:\Repos\Aula1\MeuPrimeiroTerminal\obj\Debug\netcoreapp2.1\MeuPrimeiroTerminal.pdb
